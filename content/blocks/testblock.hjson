@@ -1,7 +1,7 @@
 localizedName: "testblock"
 description: ""
-category:block
+category: block
 
-size:1
-solid:true
-hasItems:false
+size: 1
+solid: true
+hasItems: false;
