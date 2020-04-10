@@ -1,7 +1,7 @@
 localizedName: "testblock"
-description: ""
-category: "block"
+type: wall
+category: defence
 
 size: 1
 solid: true
-hasItems: false;
+hasItems: false
