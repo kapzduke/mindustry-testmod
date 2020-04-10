@@ -1,0 +1,7 @@
+name: testmod
+displayName: testmod
+author: Yourself
+description: This is a useless description.
+version: "1.0"
+minGameVersion: "100.3"
+dependencies: [ ]
