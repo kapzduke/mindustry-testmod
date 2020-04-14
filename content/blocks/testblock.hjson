@@ -1,6 +1,6 @@
 localizedName: "testblock"
 type: wall
-category: defence
+category: defense
 
 size: 1
 solid: true
